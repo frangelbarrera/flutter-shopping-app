@@ -313,6 +313,5 @@ To report bugs or request features:
 
 ---
 
-**Developed with ❤️ by Frangel Barrera using Flutter and Material Design 3**
+**Developed by Frangel Barrera using Flutter and Material Design 3**
 
-*Flutter Shopping App - Portfolio project demonstrating modern mobile development*
