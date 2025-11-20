@@ -5,8 +5,8 @@ A complete e-commerce mobile application developed with Flutter by Frangel Barre
 ## 👨‍💻 Author
 
 **Frangel Barrera**
-- GitHub: [https://github.com/frangelbarrera](https://github.com/frangelbarrera)
-- LinkedIn: [Your LinkedIn profile if you have one]
+- GitHub: (https://github.com/frangelbarrera)
+- LinkedIn: (https://www.linkedin.com/in/frangel-crespo-barrera-a53823399/)
 
 ## 📱 Main Features
 
