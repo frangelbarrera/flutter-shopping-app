@@ -1,4 +1,4 @@
-# 🛍️ Flutter Shopping App - Portfolio Project
+# 🛍️ Flutter Shopping App 
 
 A complete e-commerce mobile application developed with Flutter by Frangel Barrera, implementing an elegant dark theme based on Material Design 3 and connected to the FakeStore API. Portfolio project demonstrating Flutter mobile development skills.
 
@@ -7,7 +7,6 @@ A complete e-commerce mobile application developed with Flutter by Frangel Barre
 **Frangel Barrera**
 - GitHub: [https://github.com/frangelbarrera](https://github.com/frangelbarrera)
 - LinkedIn: [Your LinkedIn profile if you have one]
-- Portfolio: [Your website if you have one]
 
 ## 📱 Main Features
 
