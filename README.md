@@ -2,9 +2,6 @@
 
 A complete e-commerce mobile application developed with Flutter by Frangel Barrera, implementing an elegant dark theme based on Material Design 3 and connected to the FakeStore API. Portfolio project demonstrating Flutter mobile development skills.
 
-## 👨‍💻 Author
-
-**Frangel Barrera**
 
 ## 📱 Main Features
 
