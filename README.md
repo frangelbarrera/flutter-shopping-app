@@ -1,32 +1,32 @@
-# 🛍️ Flutter Shopping App 
+#  Flutter Shopping App 
 
 A complete e-commerce mobile application developed with Flutter by Frangel Barrera, implementing an elegant dark theme based on Material Design 3 and connected to the FakeStore API. Portfolio project demonstrating Flutter mobile development skills.
 
 
-## 📱 Main Features
+##  Main Features
 
-### ✨ User Interface
+###  User Interface
 - **Complete Dark Theme**: Consistent implementation of Material Design 3 Dark Theme
 - **Professional Color Palette**: Inspired by premium marketplace designs
 - **Custom Components**: Widgets optimized for e-commerce
 - **Intuitive Navigation**: Bottom navigation with dynamic badges
 - **Smooth Animations**: Fluid transitions between screens
 
-### 🛒 E-commerce Features
+###  E-commerce Features
 - **Product Catalog**: Responsive grid with products from FakeStore API
 - **Filters and Search**: Filtering by categories and real-time search
 - **Product Details**: Full screen with images, descriptions and ratings
 - **Shopping Cart**: Complete cart management with automatic calculations
 - **Category System**: Organized navigation by product types
 
-### 🔧 Technical Architecture
+###  Technical Architecture
 - **Global State**: Management with Provider pattern
 - **Networking**: Integration with FakeStore API using Dio
 - **Images**: Smart caching with CachedNetworkImage
 - **Advanced Layouts**: StaggeredGridView for dynamic layouts
 - **Optimization**: Lazy loading and optimized performance
 
-## 🏗️ Project Structure
+##  Project Structure
 
 ```
 flutter-shopping-app/
@@ -60,7 +60,7 @@ flutter-shopping-app/
 └── README.md                   # Documentation
 ```
 
-## 🎨 Design and Theme
+##  Design and Theme
 
 ### Color Palette
 - **Primary**: `#B08C47` (Gold/Bronze) - CTAs and main elements
@@ -74,7 +74,7 @@ flutter-shopping-app/
 ### Contrast Specifications
 All colors comply with WCAG AA guidelines (4.5:1 ratio minimum) for accessibility.
 
-## 🔌 API Integration
+##  API Integration
 
 ### FakeStore API
 - **Base URL**: `https://fakestoreapi.com`
@@ -90,7 +90,7 @@ All colors comply with WCAG AA guidelines (4.5:1 ratio minimum) for accessibilit
 - Robust error handling
 - Consistent loading states
 
-## 📦 Installation and Configuration
+##  Installation and Configuration
 
 ### Prerequisites
 ```bash
@@ -128,22 +128,22 @@ dependencies:
   badges: ^3.1.2            # UI badges
 ```
 
-## 📱 Screens and Features
+##  Screens and Features
 
-### 🏠 Home Screen
+###  Home Screen
 - Product grid with infinite scroll
 - Featured products section
 - Integrated search bar
 - Category filters
 - Quick navigation
 
-### 🏷️ Categories Screen
+###  Categories Screen
 - Tab navigation
 - Informative headers by category
 - Products organized by type
 - Dynamic counters
 
-### 🛒 Shopping Cart
+###  Shopping Cart
 - Complete list of added products
 - Quantity controls (+/-)
 - Automatic total calculations
@@ -151,14 +151,14 @@ dependencies:
 - Simulated checkout process
 - Swipe to delete gesture
 
-### 👤 Profile Screen
+###  Profile Screen
 - User information
 - Usage statistics
 - App settings
 - Help center
 - Account options
 
-### 📦 Product Details
+###  Product Details
 - Image gallery
 - Complete description
 - Rating system
@@ -166,7 +166,7 @@ dependencies:
 - Quantity controls
 - Action buttons (Add/Buy)
 
-## 🔧 Technical Configurations
+##  Technical Configurations
 
 ### Global State (Provider)
 ```dart
@@ -200,7 +200,7 @@ final dio = Dio(BaseOptions(
 ));
 ```
 
-## 🚀 Build and Distribution
+##  Build and Distribution
 
 ### Development APK
 ```bash
@@ -223,7 +223,7 @@ flutter build appbundle --release
 - Split APKs by ABI
 - Dead code elimination
 
-## 📊 Performance and Optimization
+##  Performance and Optimization
 
 ### Performance Metrics
 - **Initial load time**: < 3 seconds
@@ -238,16 +238,16 @@ flutter build appbundle --release
 - Proper resource disposal
 - Efficient memory management
 
-## 🧪 Testing and Quality Assurance
+##  Testing and Quality Assurance
 
 ### Tested Features
-- ✅ Product loading from API
-- ✅ Filtering and search
-- ✅ Cart management
-- ✅ Screen navigation
-- ✅ Themes and styles
-- ✅ Network error handling
-- ✅ Loading states
+-  Product loading from API
+-  Filtering and search
+-  Cart management
+-  Screen navigation
+-  Themes and styles
+-  Network error handling
+-  Loading states
 
 ### Compatible Devices
 - **Android**: 5.0 (API 21) or higher
@@ -255,7 +255,7 @@ flutter build appbundle --release
 - **Storage**: 100 MB free
 - **Resolutions**: From 320dp to tablets
 
-## 🔮 Future Features
+##  Future Features
 
 ### Upcoming Implementations
 - [ ] User authentication
@@ -275,7 +275,7 @@ flutter build appbundle --release
 - [ ] User metrics
 - [ ] Internationalization (i18n)
 
-## 🤝 Contribution
+##  Contribution
 
 ### Style Guides
 - Follow Dart/Flutter conventions
@@ -298,7 +298,7 @@ test: adding tests
 
 This project is an educational demonstration developed to showcase Flutter's capabilities in modern e-commerce application development.
 
-## 📞 Support
+##  Support
 
 To report bugs or request features:
 - **Email**: frangelrcbarrera@gmail.com
